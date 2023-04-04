@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Boss
   - player
+  - Currency
   layers:
   - Default
   - TransparentFX
